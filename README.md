@@ -1,4 +1,4 @@
-wunderground.com XML Feed Forecast
+Weather Underground (wunderground.com) XML Feed Forecast
 =============================================
 
 #### This class uses wunderground.com XML feed to show forecast, it makes use of the following url ####
